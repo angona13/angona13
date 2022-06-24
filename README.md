@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @angona13
+- 👋 Hello, I’m Angona Biswas
 - 👀 I’m interested in AI-based work.  
 - 🌱 I’m currently learning deeply Machine learning, Deep learning, Feature fusion.
 - 📫 To reach me: https://www.linkedin.com/in/angona-biswas-15944a193/
